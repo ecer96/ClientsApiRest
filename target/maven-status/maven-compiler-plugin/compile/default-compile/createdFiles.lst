@@ -1,0 +1,6 @@
+com\delivery\app\Clients\ClientController.class
+com\delivery\app\DeliveryApiRestApplication.class
+com\delivery\app\Clients\ClientsServiceImpl.class
+com\delivery\app\Clients\ClientsRepository.class
+com\delivery\app\Clients\Clients.class
+com\delivery\app\Clients\ClientsService.class
